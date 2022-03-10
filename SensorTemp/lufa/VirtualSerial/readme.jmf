@@ -1,0 +1,5 @@
+VirtualSerialConfiguration a ete retire' de VirtualSerial.c afin 
+d'avoir un programme utilisateur aussi court que possible. Il est 
+linke' `a la bibliotheque.
+
+make Makefile flash_109  # pour Olimexino32U4
